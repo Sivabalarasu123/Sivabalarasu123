@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Sivabalarasu!
+# 👋 Hello, I'm Sivabalarasu!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Dev+turned+AI+Engineer+⚙️➡️🧠;Java+to+Python+to+ML+and+DL+🚀;Solving+healthcare+challenges+with+code+🩺&center=true&width=500&height=45" />
 
