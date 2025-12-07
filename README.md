@@ -9,13 +9,13 @@
 ---
 
 ## 💡 About Me
-🧑‍💻 AI/ML Engineer with 1.2+ years of experience building ML, DL, CV, and NLP solutions
-🤖 Skilled in TensorFlow, scikit-learn, Computer Vision, NLP, and predictive modeling
-🩺 Strong focus on healthcare AI — document processing, medical letter classification & automation
-🧠 Passionate about building practical, production-ready AI systems using CV + NLP
-📚 Background in Java & Spring Boot, enabling strong backend + ML integration skills
-✍️ Sharing my AI journey through [Medium](https://medium.com/@sivabalarasu99) & GitHub
-🚀 Learning continuously. Improving daily. Building real-world projects.
+- 🧑‍💻 AI/ML Engineer with 1.2+ years of experience building ML, DL, CV, and NLP solutions
+- 🤖 Skilled in TensorFlow, scikit-learn, Computer Vision, NLP, and predictive modeling
+- 🩺 Strong focus on healthcare AI — document processing, medical letter classification & automation
+- 🧠 Passionate about building practical, production-ready AI systems using CV + NLP
+- 📚 Background in Java & Spring Boot, enabling strong backend + ML integration skills
+- ✍️ Sharing my AI journey through [Medium](https://medium.com/@sivabalarasu99) & GitHub
+- 🚀 Learning continuously. Improving daily. Building real-world projects.
 
 ---
 
