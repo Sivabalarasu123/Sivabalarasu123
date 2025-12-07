@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sivabalarasu!
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Dev+turned+AI+Engineer+⚙️➡️🧠;Java+to+Python+to+ML+and+DL+🚀;Solving+healthcare+challenges+with+code+🩺&center=true&width=500&height=45" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Dev+turned+AI+ML+ Engineer+⚙️➡️🧠;Java+to+Python+to+ML+and+DL+🚀;Solving+healthcare+challenges+with+code+🩺&center=true&width=500&height=45" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -9,13 +9,13 @@
 ---
 
 ## 💡 About Me
-
-- 🧑‍💻 3.5+ years of experience as a Java & Spring Boot backend developer  
-- 🔁 Transitioning into AI/ML engineering with TensorFlow, PyTorch & scikit-learn  
-- 🧠 Focused on real-world AI applications in the **healthcare domain**  
-- 💡 Passionate about building smart medical systems using CV + NLP  
-- ✍️ Documenting my journey via [Medium](https://medium.com/@sivabalarasu99) & GitHub  
-- 🛠️ Practicing. Building. Failing. Learning. Repeating.
+🧑‍💻 AI/ML Engineer with 1.2+ years of experience building ML, DL, CV, and NLP solutions
+🤖 Skilled in TensorFlow, scikit-learn, Computer Vision, NLP, and predictive modeling
+🩺 Strong focus on healthcare AI — document processing, medical letter classification & automation
+🧠 Passionate about building practical, production-ready AI systems using CV + NLP
+📚 Background in Java & Spring Boot, enabling strong backend + ML integration skills
+✍️ Sharing my AI journey through [Medium](https://medium.com/@sivabalarasu99) & GitHub
+🚀 Learning continuously. Improving daily. Building real-world projects.
 
 ---
 
@@ -38,11 +38,9 @@
 ### 👨‍💻 Languages & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🧠 Machine Learning & DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blueviolet?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
