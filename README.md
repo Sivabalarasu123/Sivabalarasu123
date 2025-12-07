@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sivabalarasu!
-<img src="https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&size=18&duration=3000&pause=1000&color=000000&background=ffffff00&center=true&lines=Backend%20Dev%20turned%20AI%2FML%20Engineer%20⚙️➡️🧠;Java%20to%20Python%20to%20ML%20and%20DL%20🚀;Solving%20healthcare%20challenges%20with%20code%20🩺" alt="typing svg" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Dev+turned+AI+Engineer+⚙️➡️🧠;Java+to+Python+to+ML+and+DL+🚀;Solving+healthcare+challenges+with+code+🩺&center=true&width=500&height=45" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
