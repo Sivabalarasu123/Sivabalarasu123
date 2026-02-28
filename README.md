@@ -8,7 +8,7 @@
 ---
 
 ## 💡 About Me
-- 🧑‍💻 AI/ML Engineer with 1.2+ years of experience building ML, DL, CV, and NLP solutions
+- 🧑‍💻 AI/ML Engineer with 1.8 years of experience building ML, DL, CV, and NLP solutions
 - 🤖 Skilled in TensorFlow, scikit-learn, Computer Vision, NLP, and predictive modeling
 - 🩺 Strong focus on healthcare AI — document processing, medical letter classification & automation
 - 🧠 Passionate about building practical, production-ready AI systems using CV + NLP
